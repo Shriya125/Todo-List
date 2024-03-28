@@ -14,10 +14,15 @@ This is a simple Todo List Back-End application that demonstrates basic routing 
 
 ### Usage
 
-To start the Express app, run:
+To start the Server, run:
    `npm start`
    
 The server will start and be accessible at `http://localhost:8000`.
+
+To start the React app, run:
+   `npm run dev`
+
+The React App will start and be accessible at `http://localhost:5173/`
 
 ### Routes
 
@@ -37,7 +42,3 @@ The server will start and be accessible at `http://localhost:8000`.
 
    `npm install`
 
-To start the React app, run:
-   `npm run dev`
-
-The React App will start and be accessible at `http://localhost:5173/`
