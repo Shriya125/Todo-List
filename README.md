@@ -14,8 +14,10 @@ This is a simple Express.js application that demonstrates basic routing and midd
 
 ## Usage
 
-To start the Express app, run:
+To start the Server, run:
    `npm start`
+To start the Frontend, run:
+   `npm run dev`
    
 The server will start and be accessible at `http://localhost:8000`.
 
